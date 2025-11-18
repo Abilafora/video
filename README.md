@@ -307,6 +307,9 @@ Este projeto foi desenvolvido para fins educacionais como parte do Projeto Integ
 - GitHub: [@PriscilaOcchi](https://github.com/PriscilaOcchi)
 - LinkedIn: [Seu LinkedIn](https://linkedin.com/in/priscila-occhi)
 
+  **Abiqueila de Souza Silva**
+- GitHub: [@PriscilaOcchi]((https://github.com/Abilafora))
+- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/abiqueila-souza )
 ---
 
 ## 🎓 Instituição de Ensino
